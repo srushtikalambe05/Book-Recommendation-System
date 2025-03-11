@@ -1,0 +1,501 @@
+User-ID,ISBN,Rating,Title,Author,Year,Publisher,Age
+2313,0812533550,9,Ender's Game (Ender Wiggins Saga (Paperback)),Orson Scott Card,1986,Tor Books,23
+2313,0060173289,9,Divine Secrets of the Ya-Ya Sisterhood : A Novel,Rebecca Wells,1996,HarperCollins,23
+2313,0399146431,5,The Bonesetter's Daughter,Amy Tan,2001,Putnam Publishing Group,23
+2313,0345348036,9,The Princess Bride: S Morgenstern's Classic Tale of True Love and High Adventure,WILLIAM GOLDMAN,1987,Del Rey,23
+2313,0449912558,0,The Sparrow,MARY DORIA RUSSELL,1997,Fawcett Books,23
+2313,0375706771,0,Midwives: A Novel,Chris Bohjalian,1998,Vintage,23
+2313,0399141146,3,The Hundred Secret Senses,Amy Tan,1995,Putnam Pub Group,23
+2313,0452260116,9,Song of Solomon (Oprah's Book Club (Paperback)),Toni Morrison,1987,Plume Books,23
+6543,0316666343,0,The Lovely Bones: A Novel,Alice Sebold,2002,"Little, Brown",34
+6543,0385504209,0,The Da Vinci Code,Dan Brown,2003,Doubleday,34
+6543,0971880107,0,Wild Animus,Rich Shapero,2004,Too Far,34
+6543,0312966970,0,Four To Score (A Stephanie Plum Novel),Janet Evanovich,1999,St. Martin's Paperbacks,34
+6543,0446605484,10,Roses Are Red (Alex Cross Novels),James Patterson,2001,Warner Vision,34
+6543,0446611212,0,Violets Are Blue,James Patterson,2002,Warner Vision,34
+6543,0609804138,0,The Sweet Potato Queens' Book of Love,JILL CONNER BROWNE,1999,Three Rivers Press,34
+6543,0805062971,8,Fight Club,Chuck Palahniuk,1999,Owl Books,34
+6543,0345342968,8,Fahrenheit 451,RAY BRADBURY,1987,Del Rey,34
+6543,0446610038,9,1st to Die: A Novel,James Patterson,2002,Warner Vision,34
+6543,0312195516,0,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA,34
+6543,0670894494,0,The Passion of Artemisia,Susan Vreeland,2002,Viking Books,34
+6543,0061009059,8,One for the Money (Stephanie Plum Novels (Paperback)),Janet Evanovich,1995,HarperTorch,34
+6543,0142001740,9,The Secret Life of Bees,Sue Monk Kidd,2003,Penguin Books,34
+6543,0312966091,0,Three To Get Deadly : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,1998,St. Martin's Paperbacks,34
+6543,0316168688,0,The Dogs of Babel (Today Show Book Club #12),Carolyn Parkhurst,2003,"Little, Brown",34
+6543,0316602051,0,The Jester,James Patterson,2003,"Little, Brown",34
+6543,0316777730,0,Naked,David Sedaris,1998,Back Bay Books,34
+6543,0345436911,8,The Dress Lodger (Ballantine Reader's Circle),Sheri Holman,2001,Ballantine Books,34
+6543,0671001795,0,Two for the Dough,Janet Evanovich,1996,Pocket,34
+6543,1400031354,7,Tears of the Giraffe (No.1 Ladies Detective Agency),Alexander McCall Smith,2002,Anchor,34
+6543,0385722206,6,Balzac and the Little Chinese Seamstress : A Novel,DAI SIJIE,2002,Anchor,34
+6543,0446612790,0,2nd Chance,James Patterson,2003,Warner Vision,34
+6543,0316777722,0,Me Talk Pretty One Day,David Sedaris,2000,"Little, Brown",34
+6543,1400031346,6,The No. 1 Ladies' Detective Agency,Alexander McCall Smith,2002,Anchor (UK),34
+6543,067976397X,7,Corelli's Mandolin : A Novel,LOUIS DE BERNIERES,1995,Vintage,34
+6543,0553274503,8,Flowers for Algernon (Bantam Classic),DANIEL KEYES,1984,Bantam,34
+6543,0375725784,0,A Heartbreaking Work of Staggering Genius,Dave Eggers,2001,Vintage Books USA,34
+6543,0767905385,7,Catch Me If You Can: The True Story of a Real Fake,Stan Redding,2000,Broadway,34
+6543,0142000205,0,Icy Sparks,Gwyn Hyman Rubio,2001,Penguin Books,34
+6543,0140280553,6,"Galileo's Daughter: A Historical Memoir of Science, Faith, and Love",Dava Sobel,2000,Penguin Books,34
+6543,0688177859,0,"Ahab's Wife: Or, The Star-Gazer: A Novel",Sena Jeter Naslund,2000,Perennial,34
+6543,014025448X,8,At Home in Mitford (The Mitford Years),Jan Karon,1996,Viking Books,34
+6543,0385730586,0,Sisterhood of the Traveling Pants,ANN BRASHARES,2003,Delacorte Books for Young Readers,34
+6543,0312971346,0,High Five (A Stephanie Plum Novel),Janet Evanovich,2000,St. Martin's Paperbacks,34
+6543,0312976275,0,Hot Six : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,2001,St. Martin's Paperbacks,34
+6543,0312980140,8,Seven Up (A Stephanie Plum Novel),Janet Evanovich,2002,St. Martin's Paperbacks,34
+6543,014028009X,0,Bridget Jones's Diary,Helen Fielding,1999,Penguin Books,34
+6543,0060987103,10,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,1996,Regan Books,34
+6543,0151008116,0,Life of Pi,Yann Martel,2002,Harcourt,34
+6543,0061020710,6,The Color of Magic,Terry Pratchett,2000,HarperTorch,34
+6543,0380977788,0,Coraline,Neil Gaiman,2002,HarperCollins,34
+6543,0312278586,0,The Nanny Diaries: A Novel,Emma McLaughlin,2002,St. Martin's Press,34
+6543,0385721420,7,Three Junes,JULIA GLASS,2003,Anchor,34
+6543,0380813815,10,"Lamb : The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,2003,Perennial,34
+6543,1573225789,9,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,1997,Riverhead Books,34
+6543,0439404371,0,The Thief Lord,Cornelia Funke,2002,Scholastic,34
+6543,0894805770,0,What to Expect the First Year,Arlene Eisenberg,1989,Workman Publishing,34
+6543,089480829X,0,What to Expect When You're Expecting (Revised Edition),Arlene Eisenberg,1996,Workman Pub Co,34
+6543,0345438329,0,Big Stone Gap: A Novel (Ballantine Reader's Circle),Adriana Trigiani,2001,Ballantine Books,34
+6543,0688177751,0,Miss Julia Speaks Her Mind : A Novel,Ann B. Ross,2000,Perennial,34
+6543,0142001430,0,Year of Wonders,Geraldine Brooks,2002,Penguin Books,34
+6543,0446604658,8,Lucky You,Carl Hiaasen,1998,Warner Vision,34
+6543,0140254544,0,A Light in the Window (The Mitford Years),Jan Karon,1996,Penguin Books,34
+6543,0345447840,0,The Surgeon,TESS GERRITSEN,2002,Ballantine Books,34
+6543,0671041789,0,The Green Mile,Stephen King,1999,Pocket,34
+6543,0345452534,0,The Murder Book,JONATHAN KELLERMAN,2002,Ballantine Books,34
+6543,0451191145,0,Atlas Shrugged,Ayn Rand,1996,Signet Book,34
+6543,0375412824,0,The Dive From Clausen's Pier (Alex Awards),ANN PACKER,2002,Knopf,34
+6543,0140119906,0,Love in the Time of Cholera (Penguin Great Books of the 20th Century),Gabriel Garcia Marquez,1994,Penguin Books,34
+6543,0345445848,7,Big Cherry Holler: A Big Stone Gap Novel (Ballantine Reader's Circle),Adriana Trigiani,2002,Ballantine Books,34
+6543,0399149155,0,Q Is for Quarry,Sue Grafton,2002,Putnam Publishing Group,34
+6543,0312306326,6,Visions of Sugar Plums,Janet Evanovich,2002,St. Martin's Press,34
+6543,0743235150,8,Everything's Eventual : 14 Dark Tales,Stephen King,2002,Scribner,34
+6543,1400031362,8,Morality for Beautiful Girls (No.1 Ladies Detective Agency),Alexander McCall Smith,2002,Anchor,34
+6543,0312042779,7,Catering to Nobody,Diane Mott Davidson,1990,St. Martin's Press,34
+6543,0375411070,10,Basket Case,CARL HIAASEN,2002,Knopf,34
+6543,0375422412,7,Three Junes,Julia Glass,2002,Pantheon Books,34
+6543,0393046974,0,House of Sand and Fog,Andre Dubus III,1999,W.W. Norton & Company,34
+6543,039592720x,0,Interpreter of Maladies,Jhumpa Lahiri,1999,Houghton Mifflin Co,34
+6543,0425192725,8,Q Is for Quarry,Sue Grafton,2003,Berkley Publishing Group,34
+6543,0440212561,8,Outlander,DIANA GABALDON,1992,Dell,34
+6543,0446611085,0,Suzanne's Diary for Nicholas,James Patterson,2003,Warner Books,34
+6543,0451165624,10,On the Road,Jack Kerouac,1981,Signet Book,34
+6543,0671880314,0,Schindler's List,Thomas Keneally,1993,Touchstone,34
+6543,0718146298,0,Visions of Sugar Plums,Janet Evanovich,0,Penguin Books Australia Ltd,34
+6543,0743227441,0,The Other Boleyn Girl,Philippa Gregory,2002,Touchstone,34
+6543,0767915054,0,A Girl Named Zippy: Growing Up Small in Mooreland Indiana (Today Show Book Club #3),HAVEN KIMMEL,2002,Broadway Books,34
+8680,0446518581,8,Border Music,Robert James Waller,1995,Warner Books,2
+8680,0060958022,6,Five Quarters of the Orange,Joanne Harris,2002,Perennial,2
+8680,039914739X,0,Isle of Dogs,Patricia Daniels Cornwell,2001,Putnam Publishing Group,2
+8680,0156005891,0,Eden Close,Anita Shreve,1998,Harvest Books,2
+8680,0451519841,5,1984,George Orwell,1980,New Amer Library,2
+8680,0812505166,5,Wuthering Heights,Emily Bronte,1989,Tor Classics,2
+8680,0399147284,0,Chosen Prey,John Sandford,2001,G. P. Putnam's Sons,2
+8680,0525946829,8,Quentins,Maeve Binchy,2002,Dutton Books,2
+8680,0743225724,0,Good Harbor: A Novel,Anita Diamant,2002,Scribner,2
+23768,0446520802,6,The Notebook,Nicholas Sparks,1996,Warner Books,45
+23768,038550120X,0,A Painted House,JOHN GRISHAM,2001,Doubleday,45
+23768,0425115801,0,Lightning,Dean R. Koontz,1996,Berkley Publishing Group,45
+23768,055356451X,0,Night Sins,TAMI HOAG,1995,Bantam,45
+23768,0684867621,6,The Girl Who Loved Tom Gordon : A Novel,Stephen King,1999,Scribner,45
+23768,0440498058,0,A Wrinkle In Time,MADELEINE L'ENGLE,1998,Yearling,45
+23768,0316781266,0,The Last Time They Met : A Novel,Anita Shreve,2002,Back Bay Books,45
+23768,0446364193,0,Along Came a Spider (Alex Cross Novels),James Patterson,1993,Warner Books,45
+23768,042518109X,0,Whispers,Dean R. Koontz,2001,Berkley Publishing Group,45
+23768,0316666343,7,The Lovely Bones: A Novel,Alice Sebold,2002,"Little, Brown",45
+23768,0804106304,0,The Joy Luck Club,Amy Tan,1994,Prentice Hall (K-12),45
+23768,0971880107,0,Wild Animus,Rich Shapero,2004,Too Far,45
+23768,0380807343,0,Coraline,Neil Gaiman,2003,HarperTrophy,45
+23768,059035342X,0,Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)),J. K. Rowling,1999,Arthur A. Levine Books,45
+23768,0446310786,0,To Kill a Mockingbird,Harper Lee,1988,Little Brown & Company,45
+23768,0312966970,0,Four To Score (A Stephanie Plum Novel),Janet Evanovich,1999,St. Martin's Paperbacks,45
+23768,0440220602,0,The Chamber,John Grisham,1995,Dell Publishing Company,45
+23768,0060930187,0,The Bell Jar : A Novel (Perennial Classics),Sylvia Plath,2000,Perennial,45
+23768,0671011367,0,Deja Dead,Kathy Reichs,1998,Pocket,45
+23768,0312983271,0,Full House (Janet Evanovich's Full Series),Janet Evanovich,2002,St. Martin's Paperbacks,45
+23768,0446605484,0,Roses Are Red (Alex Cross Novels),James Patterson,2001,Warner Vision,45
+23768,0609804138,0,The Sweet Potato Queens' Book of Love,JILL CONNER BROWNE,1999,Three Rivers Press,45
+23768,0440241073,0,The Summons,John Grisham,2002,Dell Publishing Company,45
+23768,0345342968,0,Fahrenheit 451,RAY BRADBURY,1987,Del Rey,45
+23768,0449221512,0,I Is for Innocent,Sue Grafton,1994,Fawcett Books,45
+23768,0670894184,0,Back Roads,Tawni O'Dell,2000,Viking Books,45
+23768,0553263226,0,The Bourne Supremacy,Robert Ludlum,1987,Bantam,45
+23768,0425178102,0,Big Trouble,Dave Barry,2001,Berkley Publishing Group,45
+23768,0446609404,0,Cradle and All,James Patterson,2001,Warner Vision,45
+23768,0446610038,0,1st to Die: A Novel,James Patterson,2002,Warner Vision,45
+23768,0553580930,0,A Man in Full,Tom Wolfe,1999,Bantam,45
+23768,0679745203,0,The English Patient,Michael Ondaatje,1996,Vintage Books USA,45
+23768,0060391626,0,I Know This Much Is True (Oprah's Book Club),Wally Lamb,1998,Regan Books,45
+23768,042511774X,0,Breathing Lessons,Anne Tyler,1994,Berkley Publishing Group,45
+23768,0440236673,0,The Brethren,John Grisham,2000,Island,45
+23768,0446604801,0,Jack & Jill (Alex Cross Novels),James Patterson,1997,Warner Books,45
+23768,0446606189,0,Cat & Mouse (Alex Cross Novels),James Patterson,1998,Warner Books,45
+23768,0553572997,0,The Alienist,Caleb Carr,1995,Bantam Books,45
+23768,0670869902,4,How Stella Got Her Groove Back,Terry McMillan,1996,Viking Books,45
+23768,0671021001,0,She's Come Undone (Oprah's Book Club),Wally Lamb,1998,Pocket,45
+23768,0671510053,0,SHIPPING NEWS,Annie Proulx,1994,Scribner,45
+23768,0316969680,0,The Beach House,James Patterson,2002,"Little, Brown",45
+23768,0375703861,0,White Teeth: A Novel,Zadie Smith,2001,Vintage Books USA,45
+23768,044023722X,0,A Painted House,John Grisham,2001,Dell Publishing Company,45
+23768,014023313X,0,The Stone Diaries,Carol Shields,1995,Penguin Books,45
+23768,014029628X,0,Girl in Hyacinth Blue,Susan Vreeland,2000,Penguin Books,45
+23768,0316601950,0,The Pilot's Wife : A Novel,Anita Shreve,1999,Back Bay Books,45
+23768,0425154092,0,From Potter's Field,Patricia Daniels Cornwell,1996,Berkley Publishing Group,45
+23768,0060976845,0,Little Altars Everywhere: A Novel,Rebecca Wells,1996,Perennial,45
+23768,0156027321,0,Life of Pi,Yann Martel,2003,Harvest Books,45
+23768,0312195516,0,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA,45
+23768,0385474016,0,"Like Water for Chocolate: A Novel in Monthly Installments With Recipes, Romances and Home Remedies",Laura Esquivel,1994,Anchor Books/Doubleday,45
+23768,0553279378,0,I Know Why the Caged Bird Sings,MAYA ANGELOU,1983,Bantam,45
+23768,0671028375,0,Fatal Voyage,Kathy Reichs,2002,Pocket,45
+23768,0671683993,0,The Temple of My Familiar,Alice Walker,1990,Pocket,45
+23768,0060934417,8,Bel Canto: A Novel,Ann Patchett,2002,Perennial,45
+23768,0061009059,8,One for the Money (Stephanie Plum Novels (Paperback)),Janet Evanovich,1995,HarperTorch,45
+23768,0312966091,0,Three To Get Deadly : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,1998,St. Martin's Paperbacks,45
+23768,0316569321,0,White Oleander : A Novel,Janet Fitch,1999,"Little, Brown",45
+23768,0316602051,0,The Jester,James Patterson,2003,"Little, Brown",45
+23768,0316776963,0,Me Talk Pretty One Day,David Sedaris,2001,Back Bay Books,45
+23768,0345361792,0,A Prayer for Owen Meany,John Irving,1990,Ballantine Books,45
+23768,0345436911,0,The Dress Lodger (Ballantine Reader's Circle),Sheri Holman,2001,Ballantine Books,45
+23768,0374199698,0,Middlesex: A Novel,Jeffrey Eugenides,2002,"Farrar, Straus and Giroux",45
+23768,0380718332,0,All That Remains (Kay Scarpetta Mysteries (Paperback)),Patricia D. Cornwell,1993,Avon,45
+23768,0385484518,0,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",MITCH ALBOM,1997,Doubleday,45
+23768,0425158616,0,Cause of Death,Patricia Daniels Cornwell,1997,Berkley Publishing Group,45
+23768,043936213X,0,Harry Potter and the Sorcerer's Stone (Book 1),J. K. Rowling,2001,Scholastic,45
+23768,0440213991,0,Guardian Angel,Sara Paretsky,1996,Dell Publishing Company,45
+23768,0440236703,8,Tell No One,Harlan Coben,2002,Dell Publishing Company,45
+23768,0440236738,0,Gone for Good,HARLAN COBEN,2003,Dell,45
+23768,0446603716,0,Hide & Seek,James Patterson,1996,Warner Books,45
+23768,0446608890,0,Saving Faith,David Baldacci,2000,Warner Vision,45
+23768,0449221482,0,J Is for Judgment,Sue Grafton,1999,Fawcett Books,45
+23768,0449221504,0,K Is for Killer (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,1999,Fawcett Books,45
+23768,0553271636,0,D Is for Deadbeat (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,1988,Bantam,45
+23768,0553279556,0,E Is for Evidence: A Kinsey Millhone Mystery (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,1989,Bantam,45
+23768,0553280341,0,B Is for Burglar (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,1986,Bantam,45
+23768,0553280368,0,C Is for Corpse (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,1987,Bantam,45
+23768,0553801430,0,By the Light of the Moon,DEAN KOONTZ,2002,Bantam,45
+23768,0671001795,0,Two for the Dough,Janet Evanovich,1996,Pocket,45
+23768,0743412028,0,Pay It Forward,Catherine Ryan Hyde,2000,Pocket,45
+23768,080410753X,0,The Kitchen God's Wife,Amy Tan,1992,Ivy Books,45
+23768,0804108749,0,Saint Maybe,ANNE TYLER,1992,Ivy Books,45
+23768,080411918X,0,A Patchwork Planet,ANNE TYLER,2001,Ballantine Books,45
+23768,1400031354,0,Tears of the Giraffe (No.1 Ladies Detective Agency),Alexander McCall Smith,2002,Anchor,45
+23768,0385722206,0,Balzac and the Little Chinese Seamstress : A Novel,DAI SIJIE,2002,Anchor,45
+23768,0380718340,8,Cruel & Unusual (Kay Scarpetta Mysteries (Paperback)),Patricia D. Cornwell,1994,Avon,45
+23768,044022165X,0,The Rainmaker,JOHN GRISHAM,1996,Dell,45
+23768,0449219364,0,G Is for Gumshoe (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,1991,Fawcett Books,45
+23768,0345351525,0,The Queen of the Damned (Vampire Chronicles (Paperback)),Anne Rice,1993,Ballantine Books,45
+23768,0440234743,0,The Testament,John Grisham,1999,Dell,45
+23768,0446607657,0,When the Wind Blows,James Patterson,1999,Warner Vision,45
+23768,0449907481,8,A Thousand Acres (Ballantine Reader's Circle),JANE SMILEY,1992,Ballantine Books,45
+23768,0553579754,0,Fear Nothing,DEAN KOONTZ,1998,Bantam,45
+23768,0671888587,0,I'll Be Seeing You,Mary Higgins Clark,1994,Pocket,45
+23768,0786868716,0,The Five People You Meet in Heaven,Mitch Albom,2003,Hyperion,45
+23768,0399143947,0,Point of Origin,Patricia Daniels Cornwell,1998,Putnam Pub Group,45
+23768,0316693200,0,2nd Chance,James Patterson,2002,"Little, Brown",45
+23768,0385508042,0,The King of Torts,John Grisham,2003,Doubleday Books,45
+23768,1558744150,0,Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series (Paper)),Jack Canfield,1996,Health Communications,45
+23768,0679439382,0,The Little Friend,Donna Tartt,2002,Alfred A. Knopf,45
+23768,0743418174,7,Good in Bed,Jennifer Weiner,2002,Washington Square Press,45
+23768,0345447867,0,The Apprentice,Tess Gerritsen,2003,Ballantine Books,45
+23768,0385511612,0,Bleachers,John Grisham,2003,Doubleday,45
+23768,0142004235,0,East of Eden (Oprah's Book Club),John Steinbeck,2003,Penguin Books,45
+23768,0375707972,0,The Reader,Bernhard Schlink,1999,Vintage Books USA,45
+23768,1400031346,8,The No. 1 Ladies' Detective Agency,Alexander McCall Smith,2002,Anchor (UK),45
+23768,0786861347,0,Don't Stand Too Close to a Naked Man,Tim Allen,1994,Hyperion Books,45
+23768,0425142485,0,The Funhouse,Dean R. Koontz,1994,Berkley Publishing Group,45
+23768,0440213525,0,The Client,John Grisham,1994,Dell Publishing Company,45
+23768,0446359866,0,Presumed Innocent,Scott Turow,1989,Warner Books,45
+23768,0671004565,0,We'll Meet Again,Mary Higgins Clark,2000,Pocket,45
+23768,067976397X,0,Corelli's Mandolin : A Novel,LOUIS DE BERNIERES,1995,Vintage,45
+23768,0316769487,0,The Catcher in the Rye,J.D. Salinger,1991,"Little, Brown",45
+23768,0380717018,0,Body of Evidence (Kay Scarpetta Mysteries (Paperback)),Patricia D. Cornwell,1992,Avon,45
+23768,0452264464,0,Beloved (Plume Contemporary Fiction),Toni Morrison,1994,Plume,45
+23768,0449005615,0,Seabiscuit: An American Legend,LAURA HILLENBRAND,2002,Ballantine Books,45
+23768,0385502532,0,Drowning Ruth,Christina Schwarz,2000,Doubleday,45
+23768,0060915544,0,The Bean Trees,Barbara Kingsolver,1989,Perennial,45
+23768,0060008024,0,Angels,Marian Keyes,2002,William Morrow,45
+23768,0060928336,0,Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,1997,Perennial,45
+23768,0446672211,0,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,1998,Warner Books,45
+23768,0440226430,0,Summer Sisters,Judy Blume,1999,Dell Publishing Company,45
+23768,006019491X,0,Daughter of Fortune : A Novel (Oprah's Book Club (Hardcover)),Isabel Allende,1999,HarperCollins,45
+23768,0446609943,0,The Switch,Sandra Brown,2001,Warner Vision,45
+23768,0385492081,0,Into Thin Air : A Personal Account of the Mt. Everest Disaster,JON KRAKAUER,1998,Anchor,45
+23768,0375400117,0,Memoirs of a Geisha,Arthur Golden,1997,Alfred A. Knopf,45
+23768,0446670251,0,The Virgin Suicides,Jeffrey Eugenides,1994,Warner Books,45
+23768,0670880728,0,Bridget Jones's Diary,Helen Fielding,1998,Viking Books,45
+23768,0743225325,0,Good Harbor: A Novel,Anita Diamant,2001,Scribner,45
+23768,0743237188,0,Fall On Your Knees (Oprah #45),Ann-Marie MacDonald,2002,Touchstone,45
+23768,0399145087,0,Black Notice,Patricia Daniels Cornwell,1999,Putnam Pub Group,45
+23768,0679433740,0,Paradise,Toni Morrison,1998,Alfred A. Knopf,45
+23768,0684874350,0,ANGELA'S ASHES,Frank McCourt,1996,Scribner,45
+23768,0786881852,0,Don't Sweat the Small Stuff and It's All Small Stuff : Simple Ways to Keep the Little Things from Taking Over Your Life (Don't Sweat the Small Stuff Series),Richard Carlson,1997,Hyperion,45
+23768,0345386108,0,Winter Moon,Dean R. Koontz,1995,Ballantine Books,45
+23768,0425153975,0,The Eyes of Darkness,Dean R. Koontz,1996,Berkley Publishing Group,45
+23768,0446603589,0,Absolute Power,David Baldacci,1996,Warner Books,45
+23768,044651652X,0,The Bridges of Madison County,Robert James Waller,1992,Warner Books,45
+23768,0804115761,0,Thousand Acres,JANE SMILEY,1996,Ivy Books,45
+23768,0449003795,0,P Is for Peril,Sue Grafton,2002,Ballantine Books,45
+23768,0446527041,0,The Crush,Sandra Brown,2002,Warner Books,45
+23768,0451204948,0,A Day Late and a Dollar Short,Terry McMillan,2002,Signet Book,45
+23768,0804111359,0,Secret History,DONNA TARTT,1993,Ballantine Books,45
+23768,0375702709,0,A Lesson Before Dying (Vintage Contemporaries (Paperback)),Ernest J. Gaines,1997,Vintage Books USA,45
+23768,0375727345,0,House of Sand and Fog,Andre Dubus III,2000,Vintage Books,45
+23768,0060958022,0,Five Quarters of the Orange,Joanne Harris,2002,Perennial,45
+23768,0345337662,0,Interview with the Vampire,Anne Rice,1993,Ballantine Books,45
+23768,0440235596,0,Tara Road,Maeve Binchy,2000,Dell Publishing Company,45
+23768,0440940001,0,Island of the Blue Dolphins (Laurel Leaf Books),Scott O'Dell,1978,Laure Leaf,45
+23768,0446606812,0,Message in a Bottle,Nicholas Sparks,1999,Warner Vision,45
+23768,0671673688,0,While My Pretty One Sleeps,Mary Higgins Clark,1990,Pocket,45
+23768,0671701231,0,The Anastasia Syndrome,Mary Higgins Clark,1991,Pocket,45
+23768,039914465X,0,Southern Cross,Patricia Daniels Cornwell,1999,Putnam Pub Group,45
+23768,0399146253,0,The Last Precinct,Patricia Daniels Cornwell,2000,Putnam Publishing Group,45
+23768,0425097722,0,Fatherhood,Bill Cosby,1994,Berkley Publishing Group,45
+23768,044022103X,0,One True Thing,Anna Quindlen,1995,Dell,45
+23768,0446523321,0,The Simple Truth,David Baldacci,1998,Warner Books Inc,45
+23768,0670896764,7,A Day Late and a Dollar Short,Terry McMillan,2001,Viking Books,45
+23768,068484477X,0,STONES FROM THE RIVER,Ursula Hegi,1997,Touchstone,45
+23768,0446612545,0,The Beach House,James Patterson,2003,Warner Books,45
+23768,0451524934,0,1984,George Orwell,1990,Signet Book,45
+23768,0440122090,0,Echoes,Maeve Binchy,1989,Dell,45
+23768,0446354732,0,Nothing Lasts Forever,Sidney Sheldon,1995,Warner Books,45
+23768,0446611867,0,A Bend in the Road,Nicholas Sparks,2002,Warner Books,45
+23768,0671727583,0,Smart Women,Judy Blume,1990,Pocket Books,45
+23768,0385498802,0,Bee Season: A Novel,Myla Goldberg,2001,Anchor Books/Doubleday,45
+23768,0671789422,0,Possessing the Secret of Joy,Alice Walker,1993,Pocket,45
+23768,0802139256,0,Peace Like a River,Leif Enger,2002,Grove Press,45
+23768,0385324057,0,Summer Sisters,Judy Blume,1998,Delacorte Press,45
+23768,0385497466,0,The Brethren,JOHN GRISHAM,2000,Doubleday,45
+23768,0446527165,0,Wish You Well,David Baldacci,2000,Warner Books,45
+23768,0553584510,0,The Survivors Club,LISA GARDNER,2003,Bantam,45
+23768,0312265859,8,Hard Eight : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,2002,St. Martin's Press,45
+23768,0399147195,0,P Is for Peril (Kinsey Millhone Mysteries (Hardcover)),Sue Grafton,2001,Putnam Publishing Group,45
+23768,0553569058,0,The Robber Bride,Margaret Atwood,1995,Bantam,45
+23768,0446610542,0,The Bachelor (Warner Books Contemporary Romance),Carly Phillips,2002,Warner Forever,45
+23768,006016848X,0,"Men Are from Mars, Women Are from Venus: A Practical Guide for Improving Communication and Getting What You Want in Your Relationships",John Gray,1992,HarperCollins Publishers,45
+23768,0345384350,0,Icebound,Dean R. Koontz,1995,Ballantine Books,45
+23768,0375703055,0,Ellen Foster,Kaye Gibbons,1997,Vintage Books,45
+23768,0375706410,0,Waiting (Vintage International),Ha Jin,2000,Vintage Books USA,45
+23768,0385265700,0,The Book of Ruth (Oprah's Book Club (Paperback)),Jane Hamilton,1990,Anchor,45
+23768,0385490992,0,The Street Lawyer,John Grisham,1998,Doubleday Books,45
+23768,0394820371,0,The Phantom Tollbooth,Norton Juster,1993,Yearling Books,45
+23768,042513699X,0,Turtle Moon,Alice Hoffman,1993,Berkley Publishing Group,45
+23768,0425147622,0,The Body Farm,Patricia Daniels Cornwell,1995,Berkley Publishing Group,45
+23768,042518630X,0,Purity in Death,J.D. Robb,2002,Berkley Publishing Group,45
+23768,044021145X,0,The Firm,John Grisham,1992,Bantam Dell Publishing Group,45
+23768,0440224594,0,The Return Journey,MAEVE BINCHY,1999,Dell,45
+23768,0451181379,0,The Door to December,Dean R. Koontz,1994,Signet Book,45
+23768,0553208845,0,Siddhartha,Hermann Hesse,1981,Bantam Classics,45
+23768,0553284789,0,F Is for Fugitive (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,1990,Bantam,45
+23768,0553573136,0,Couplehood,PAUL REISER,1995,Bantam,45
+23768,0671024248,0,Hearts In Atlantis,Stephen King,2000,Pocket,45
+23768,0671758896,0,"Loves Music, Loves to Dance",Mary Higgins Clark,1992,Pocket,45
+23768,0671867113,0,Moonlight Becomes You,Mary Higgins Clark,1997,Pocket,45
+23768,0671880187,8,Kitchen,Banana Yoshimoto,1994,Washington Square Press,45
+23768,0679425268,0,Sole Survivor,DEAN KOONTZ,1997,Knopf,45
+23768,1576737330,0,The Prayer of Jabez: Breaking Through to the Blessed Life,Bruce Wilkinson,2000,Multnomah,45
+23768,0061030597,0,Moment of Truth,Lisa Scottoline,2001,HarperTorch,45
+23768,0375726403,0,Empire Falls,Richard Russo,2002,Vintage Books USA,45
+23768,0440221595,0,The Glass Lake,Maeve Binchy,1996,Dell,45
+23768,0449003787,0,"\""O\"" Is for Outlaw",SUE GRAFTON,2001,Ballantine Books,45
+23768,0449219461,0,H Is for Homicide (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,1993,Fawcett Books,45
+23768,0802130208,0,A Confederacy of Dunces (Evergreen Book),John Kennedy Toole,1987,Grove Press,45
+23768,0312971346,0,High Five (A Stephanie Plum Novel),Janet Evanovich,2000,St. Martin's Paperbacks,45
+23768,0312976275,0,Hot Six : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,2001,St. Martin's Paperbacks,45
+23768,0312980140,0,Seven Up (A Stephanie Plum Novel),Janet Evanovich,2002,St. Martin's Paperbacks,45
+23768,014028009X,0,Bridget Jones's Diary,Helen Fielding,1999,Penguin Books,45
+23768,0375703063,8,A Virtuous Woman (Oprah's Book Club (Paperback)),Kaye Gibbons,1997,Vintage Books,45
+23768,0380730138,0,Vinegar Hill (Oprah's Book Club (Paperback)),A. Manette Ansay,1998,Perennial,45
+23768,0446610399,0,The Rescue,Nicholas Sparks,2001,Warner Books,45
+23768,0452282829,0,We Were the Mulvaneys,Joyce Carol Oates,1996,Plume,45
+23768,0553250426,0,The Clan of the Cave Bear (Earth's Children (Paperback)),Jean M. Auel,1984,Bantam Books,45
+23768,0060959037,0,Prodigal Summer: A Novel,Barbara Kingsolver,2001,Perennial,45
+23768,0440223202,0,Evening Class,Maeve Binchy,1998,Dell Publishing Company,45
+23768,0449223612,0,N Is for Noose,Sue Grafton,1999,Fawcett Books,45
+23768,0671014196,0,The Summerhouse,Jude Deveraux,2002,Pocket,45
+23768,155874262X,0,Chicken Soup for the Soul (Chicken Soup for the Soul),Jack Canfield,1993,Health Communications,45
+23768,0440211263,0,Circle of Friends,Maeve Binchy,1991,Dell,45
+23768,0449223604,0,M Is for Malice,Sue Grafton,1998,Fawcett Books,45
+23768,0345387651,0,The Cider House Rules,John Irving,1994,Ballantine Books,45
+23768,0060809833,0,Brave New World,Aldous Huxley,1989,Harpercollins,45
+23768,0060168013,0,Pigs in Heaven,Barbara Kingsolver,1993,Harpercollins,45
+23768,0671867156,0,Pretend You Don't See Her,Mary Higgins Clark,1998,Pocket,45
+23768,0671004573,0,Before I Say Good-Bye,Mary Higgins Clark,2001,Pocket,45
+23768,038572179X,0,Atonement : A Novel,IAN MCEWAN,2003,Anchor,45
+23768,0385720106,0,A Map of the World,Jane Hamilton,1999,Anchor Books/Doubleday,45
+23768,0425092917,0,The Accidental Tourist,Anne Tyler,1994,Berkley Publishing Group,45
+23768,0671042572,0,Jewel (Oprah's Book Club),Bret Lott,1999,Pocket,45
+23768,0312305060,0,The Hours: A Novel,Michael Cunningham,2002,Picador,45
+23768,0440224675,0,Hannibal,Thomas Harris,2000,Dell Publishing Company,45
+23768,0805063897,5,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,2002,Owl Books,45
+23768,0842329129,0,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,1996,Tyndale House Publishers,45
+23768,0312278586,0,The Nanny Diaries: A Novel,Emma McLaughlin,2002,St. Martin's Press,45
+23768,0385721420,0,Three Junes,JULIA GLASS,2003,Anchor,45
+23768,0451202341,0,Back Roads,Tawni O'Dell,2001,Signet Book,45
+23768,068484267X,0,Angela's Ashes: A Memoir,Frank McCourt,1999,Scribner,45
+23768,0060392452,0,Stupid White Men ...and Other Sorry Excuses for the State of the Nation!,Michael Moore,2002,Regan Books,45
+23768,0060938455,0,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,2002,Perennial,45
+23768,0446394521,0,Daisy Fay and the Miracle Man,Fannie Flagg,1992,Warner Books,45
+23768,0316969443,0,Suzanne's Diary for Nicholas,James Patterson,2001,"Little, Brown",45
+23768,0385505833,6,Skipping Christmas,JOHN GRISHAM,2001,Doubleday,45
+23768,0425184129,0,Big Trouble,Dave Barry,2002,Berkley Publishing Group,45
+23768,0446525502,0,The Rescue,Nicholas Sparks,2000,Warner Books,45
+23768,0446531332,0,Nights in Rodanthe,Nicholas Sparks,2002,Warner Books,45
+23768,0446601241,0,Kiss the Girls,James Patterson,1995,Warner Books,45
+23768,0671708635,0,Seven Habits Of Highly Effective People,Stephen R. Covey,1990,Free Press,45
+23768,0786866276,0,Mother of Pearl,Melinda Haynes,1999,Hyperion,45
+23768,0439404371,0,The Thief Lord,Cornelia Funke,2002,Scholastic,45
+23768,0385335482,0,Confessions of a Shopaholic (Summer Display Opportunity),SOPHIE KINSELLA,2001,Delta,45
+23768,0060916508,0,Their Eyes Were Watching God: A Novel,Zora Neale Hurston,1990,Perennial,45
+23768,038531258X,0,Cold Sassy Tree,Olive Ann Burns,1986,Delta,45
+23768,037570504X,7,"Breath, Eyes, Memory",Edwidge Danticat,1998,Vintage Books USA,45
+23768,0894805770,0,What to Expect the First Year,Arlene Eisenberg,1989,Workman Publishing,45
+23768,0688177751,0,Miss Julia Speaks Her Mind : A Novel,Ann B. Ross,2000,Perennial,45
+23768,0380727501,0,Notes from a Small Island,Bill Bryson,1997,Perennial,45
+23768,0609610597,0,"The Shelters of Stone (Earth's Children Series, No 5)",JEAN M. AUEL,2002,Crown,45
+23768,0316182540,0,White Oleander : A Novel,Janet Fitch,2001,"Little, Brown",45
+23768,0553282476,0,CAT'S EYE,MARGARET ATWOOD,1989,Bantam,45
+23768,0345452534,0,The Murder Book,JONATHAN KELLERMAN,2002,Ballantine Books,45
+23768,0553279912,0,A Is for Alibi (Kinsey Millhone Mysteries (Paperback)),SUE GRAFTON,1987,Bantam,45
+23768,0446516538,0,Slow Waltz in Cedar Bend,Robert James Waller,1993,Warner Books,45
+23768,1573229326,0,How to Be Good,Nick Hornby,2002,Riverhead Books,45
+23768,0671004549,0,You Belong To Me,Mary Higgins Clark,1999,Pocket Books,45
+23768,0385335830,0,Diary of a Mad Bride (Summer Display Opportunity),Laura Wolf,2002,Delta,45
+23768,0425092178,0,Strangers,Dean R. Koontz,1986,Penguin Putnam~mass,45
+23768,0375706771,0,Midwives: A Novel,Chris Bohjalian,1998,Vintage,45
+23768,0452260116,0,Song of Solomon (Oprah's Book Club (Paperback)),Toni Morrison,1987,Plume Books,45
+23768,0312265867,0,To the Nines: A Stephanie Plum Novel,Janet Evanovich,2003,St. Martin's Press,45
+23768,0451191145,0,Atlas Shrugged,Ayn Rand,1996,Signet Book,45
+23768,0345413873,0,Monster : A Novel (Alex Delaware Novels (Paperback)),JONATHAN KELLERMAN,2000,Ballantine Books,45
+23768,0375412824,0,The Dive From Clausen's Pier (Alex Awards),ANN PACKER,2002,Knopf,45
+23768,1558744630,0,Chicken Soup for the Teenage Soul (Chicken Soup for the Soul),Jack Canfield,1997,Health Communications,45
+23768,0399142282,0,Hornet's Nest,Patricia Daniels Cornwell,1997,Putnam Publishing Group,45
+23768,0060921145,0,Animal Dreams,Barbara Kingsolver,1991,Perennial,45
+23768,140003065X,0,A Fine Balance,Rohinton Mistry,2001,Vintage Books USA,45
+23768,0684857820,9,Lucky,Alice Sebold,1999,Scribner,45
+23768,0151006725,8,Slammerkin,Emma Donoghue,2001,Harcourt,45
+23768,0671028367,0,Deadly Decisions,Kathy Reichs,2001,Pocket Books,45
+23768,0345413350,0,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,1997,Del Rey,45
+23768,0060090367,0,Watermelon,Marian Keyes,2002,Perennial,45
+23768,0385319037,0,Animal Husbandry,Laura Zigman,2001,Delta,45
+23768,0446605581,0,Fat Tuesday,Sandra Brown,1998,Warner Vision,45
+23768,0399149155,0,Q Is for Quarry,Sue Grafton,2002,Putnam Publishing Group,45
+23768,0142002267,0,"Word Freak: Heartbreak, Triumph, Genius, and Obsession in the World of Competitive Scrabble Players",Stefan Fatsis,2002,Penguin Books,45
+23768,1573225517,0,High Fidelity,Nick Hornby,1996,Riverhead Books,45
+23768,067088300X,0,The Girls' Guide to Hunting and Fishing,Melissa Bank,1999,Viking Books,45
+23768,0425162443,0,The Rapture of Canaan,Sheri Reynolds,1997,Berkley Publishing Group,45
+23768,038079487X,0,What Looks Like Crazy On An Ordinary Day,Pearl Cleage,1998,Perennial,45
+23768,1573228214,0,High Fidelity,Nick Hornby,2000,Riverhead Books,45
+23768,0316780812,0,Sea Glass: A Novel,Anita Shreve,2002,"Little, Brown",45
+23768,0060929871,8,Brave New World,Aldous Huxley,1998,Perennial,45
+23768,0375500510,0,Black and Blue : A Novel,ANNA QUINDLEN,1998,Random House,45
+23768,0375506039,0,Open House,Elizabeth Berg,2000,Random House Trade,45
+23768,0425176487,0,The Pull of the Moon,Elizabeth Berg,2000,Berkley Publishing Group,45
+23768,0440202043,0,Shell Seekers,Rosamunde Pilcher,1996,Dell,45
+23768,0316693286,0,Pop Goes the Weasel,James Patterson,1999,Replica Books,45
+23768,0684841185,0,Death du Jour,Kathy Reichs,1999,Scribner,45
+23768,0385315147,0,Smilla's Sense of Snow,Peter Hoeg,1995,Delta,45
+23768,037540256X,7,A Patchwork Planet,Anne Tyler,1998,Random House Inc,45
+23768,0399149325,0,Portrait of a Killer: Jack the Ripper -- Case Closed,Patricia Cornwell,2002,G. P. Putnam's Sons,45
+23768,0446611808,0,Envy,Sandra Brown,2002,Warner Books,45
+23768,0345409876,0,Women Who Run with the Wolves,CLARISSA PINKOLA PHD ESTES,1996,Ballantine Books,45
+23768,0425189031,0,Portrait in Death,Nora Roberts,2003,Berkley Publishing Group,45
+23768,0312265840,0,Seven Up (A Stephanie Plum Novel),Janet Evanovich,2001,St. Martin's Press,45
+23768,0385720955,0,The Blind Assassin,Margaret Atwood,2001,Anchor Books/Doubleday,45
+23768,1400031362,0,Morality for Beautiful Girls (No.1 Ladies Detective Agency),Alexander McCall Smith,2002,Anchor,45
+23768,0446391301,0,Geek Love,Katherine Dunn,1993,Warner Books,45
+23768,0553578308,0,Tough Cookie,Diane Mott Davidson,2001,Bantam Books,45
+23768,080411109X,0,The Hundred Secret Senses,Amy Tan,1996,Ivy Books,45
+23768,0399142851,0,Unnatural Exposure,Patricia Daniels Cornwell,1997,Putnam Pub Group,45
+23768,0671011375,0,Death du Jour,Kathy Reichs,2000,Pocket,45
+23768,0671727796,0,The Color Purple,Alice Walker,1990,Pocket,45
+23768,0671525433,0,Dark Angel,V.C. Andrews,1986,Pocket,45
+23768,0670865796,5,The Deep End of the Ocean (Oprah's Book Club (Hardcover)),Jacquelyn Mitchard,1996,Penguin USA,45
+23768,0393046974,0,House of Sand and Fog,Andre Dubus III,1999,W.W. Norton & Company,45
+23768,0425192725,0,Q Is for Quarry,Sue Grafton,2003,Berkley Publishing Group,45
+23768,0718146298,8,Visions of Sugar Plums,Janet Evanovich,0,Penguin Books Australia Ltd,45
+23768,0767915054,4,A Girl Named Zippy: Growing Up Small in Mooreland Indiana (Today Show Book Club #3),HAVEN KIMMEL,2002,Broadway Books,45
+23768,0316781010,0,Fortune's Rocks: A Novel,Anita Shreve,1999,Back Bay Books,45
+23768,0553107240,0,Sticks & Scones,Diane Mott Davidson,2001,Bantam Books,45
+23768,0670032379,9,The Secret Life of Bees,Sue Monk Kidd,2002,Viking Books,45
+23768,0449910237,0,Moo,Jane Smiley,1996,Ballantine Books,45
+23768,1573229725,0,Fingersmith,Sarah Waters,2002,Riverhead Books,45
+23768,006001203X,0,Dr. Atkins' New Diet Revolution,Robert C. Atkins,2001,Avon Books,45
+23768,0425129551,0,Billy,Whitley Strieber,1991,Berkley Publishing Group,45
+23768,0425132951,0,The House of Thunder,Dean R. Koontz,1993,Berkley Publishing Group,45
+23768,0743418204,0,In Her Shoes : A Novel,Jennifer Weiner,2003,Washington Square Press,45
+23768,0743422449,0,Mercy,Jodi Picoult,2001,Washington Square Press,45
+23768,0446603392,0,Strange Highways,Dean Koontz,1996,Warner Books,45
+23768,0385317093,0,Granny Dan,DANIELLE STEEL,1999,Delacorte Press,45
+23768,0805059555,0,"\""O\"" Is for Outlaw",Sue Grafton,1999,Henry Holt & Company,45
+23768,0375401601,0,Vittorio the Vampire: New Tales of the Vampires,Anne Rice,1999,Alfred A. Knopf,45
+23768,0743411323,0,Never Change,Elizabeth Berg,2001,Atria,45
+23768,0375506276,0,The Fourth Hand,JOHN IRVING,2001,Random House,45
+23768,1853260916,0,To the Lighthouse,Virginia Woolf,1999,Lb May & Assoc Inc,45
+23768,087113795X,0,Peace Like a River,Leif Enger,2001,Grove/Atlantic,45
+23768,0553574574,0,Beach Music,Pat Conroy,1996,Bantam Books,45
+23768,0060187476,0,Mistaken Identity,Lisa Scottoline,1999,Harpercollins,45
+23768,0151885338,0,The Temple of My Familiar,Alice Walker,1989,Harcourt,45
+23768,0394572343,0,Breathing Lessons,Anne Tyler,1988,Random House Inc,45
+23768,051511992X,0,That Camden Summer,Lavyrle Spencer,1997,Jove Books,45
+23768,0671741187,0,Where Are the Children?,Mary Higgins Clark,1992,Pocket,45
+23768,0684859718,0,Deadly Decisions,Kathy Reichs,2000,Scribner,45
+23768,0151731527,0,Possessing the Secret of Joy,Alice Walker,1992,Harcourt,45
+23768,1573220167,0,High Fidelity,Nick Hornby,1995,Putnam Pub Group,45
+23768,0515120898,0,The Pull of the Moon,Elizabeth Berg,1997,Jove Books,45
+23768,0684841177,8,Deja Dead,Kathy Reichs,1997,Scribner,45
+23768,0451161394,0,Beloved,Toni Morrison,1991,New Amer Library,45
+23768,014130538X,0,Call of the Wild,Jack London,1999,Puffin Books,45
+23768,039454689X,0,The Accidental Tourist,Anne Tyler,1985,Random House Inc,45
+23768,0399137203,0,Turtle Moon,Alice Hoffman,1992,Putnam Pub Group,45
+23768,0670850535,0,The Liar's Club: A Memoir,Mary Karr,1995,Penguin USA,45
+23768,0679449728,0,The Pull of the Moon,Elizabeth Berg,1996,Random House Inc,45
+23768,0880299185,0,Wuthering Heights,Emily Bronte,1992,Barnes & Noble,45
+23768,0881030376,0,Of Mice and Men (Penguin Great Books of the 20th Century),John Steinbeck,1999,Sagebrush Bound,45
+23768,1569471428,0,"Breath, Eyes, Memory",Edwidge Danticat,1998,Soho Press,45
+23768,1580601200,0,Beloved,Toni Morrison,1987,Collectible First Editions,45
+28523,0316666343,0,The Lovely Bones: A Novel,Alice Sebold,2002,"Little, Brown",24
+28523,0439064864,0,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,1999,Scholastic,24
+28523,059035342X,0,Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)),J. K. Rowling,1999,Arthur A. Levine Books,24
+28523,0446605484,0,Roses Are Red (Alex Cross Novels),James Patterson,2001,Warner Vision,24
+28523,037582233X,0,Stargirl,JERRY SPINELLI,2002,Knopf Books for Young Readers,24
+28523,0670869902,0,How Stella Got Her Groove Back,Terry McMillan,1996,Viking Books,24
+28523,0060976845,0,Little Altars Everywhere: A Novel,Rebecca Wells,1996,Perennial,24
+28523,0345339681,0,The Hobbit : The Enchanting Prelude to The Lord of the Rings,J.R.R. TOLKIEN,1986,Del Rey,24
+28523,0345404777,0,No Safe Place,RICHARD NORTH PATTERSON,1999,Ballantine Books,24
+28523,0345404785,0,Dark Lady,Richard North Patterson,2000,Ballantine Books,24
+28523,0439064872,10,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,2000,Scholastic,24
+28523,0446608890,0,Saving Faith,David Baldacci,2000,Warner Vision,24
+28523,0553280341,0,B Is for Burglar (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,1986,Bantam,24
+28523,0380718340,0,Cruel & Unusual (Kay Scarpetta Mysteries (Paperback)),Patricia D. Cornwell,1994,Avon,24
+28523,0425169863,0,Point of Origin,Patricia Daniels Cornwell,1999,Berkley Publishing Group,24
+28523,080410526X,0,All I Really Need to Know,ROBERT FULGHUM,1989,Ivy Books,24
+28523,0064400557,0,Charlotte's Web (Trophy Newbery),E. B. White,1974,HarperTrophy,24
+28523,0446608262,0,The Lion's Game,Nelson DeMille,2000,Warner Books,24
+28523,034539657X,0,Dark Rivers of the Heart,Dean R. Koontz,1995,Ballantine Books,24
+28523,0440222656,0,The Horse Whisperer,Nicholas Evans,1996,Dell,24
+28523,0553272535,0,Night,Elie Wiesel,1982,Bantam Books,24
+28523,0060928336,10,Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,1997,Perennial,24
+28523,0345417623,0,Timeline,MICHAEL CRICHTON,2000,Ballantine Books,24
+28523,0786889020,8,Don't Stand Too Close to a Naked Man,Tim Allen,1995,Hyperion,24
+28523,0446610542,0,The Bachelor (Warner Books Contemporary Romance),Carly Phillips,2002,Warner Forever,24
+28523,0345348036,0,The Princess Bride: S Morgenstern's Classic Tale of True Love and High Adventure,WILLIAM GOLDMAN,1987,Del Rey,24
+28523,0385420161,0,"Like Water for Chocolate: A Novel in Monthly Installments, With Recipes, Romances, and Home Remedies",Laura Esquivel,1992,Doubleday Books,24
+28523,0515131229,0,Dance upon the Air (Three Sisters Island Trilogy),Nora Roberts,2003,Jove Books,24
+28523,0679720200,0,The Stranger,ALBERT CAMUS,1989,Vintage,24
+28523,0553250426,0,The Clan of the Cave Bear (Earth's Children (Paperback)),Jean M. Auel,1984,Bantam Books,24
+28523,0671867156,0,Pretend You Don't See Her,Mary Higgins Clark,1998,Pocket,24
+28523,0060987103,0,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,1996,Regan Books,24
+28523,0312305060,0,The Hours: A Novel,Michael Cunningham,2002,Picador,24
+28523,0590353403,10,Harry Potter and the Sorcerer's Stone (Book 1),J. K. Rowling,1998,Scholastic,24
+28523,006101351X,0,The Perfect Storm : A True Story of Men Against the Sea,Sebastian Junger,1998,HarperTorch,24
+28523,0842329129,0,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,1996,Tyndale House Publishers,24
+28523,0312278586,10,The Nanny Diaries: A Novel,Emma McLaughlin,2002,St. Martin's Press,24
+28523,0425184129,0,Big Trouble,Dave Barry,2002,Berkley Publishing Group,24
+28523,0671894455,0,FORREST GUMP (Movie Tie in),Winston Groom,1994,Pocket,24
+28523,0345370775,0,Jurassic Park,Michael Crichton,1999,Ballantine Books,24
+28523,0439404371,10,The Thief Lord,Cornelia Funke,2002,Scholastic,24
+28523,0385335881,0,Shopaholic Takes Manhattan (Summer Display Opportunity),Sophie Kinsella,2002,Delta,24
+28523,037570504X,0,"Breath, Eyes, Memory",Edwidge Danticat,1998,Vintage Books USA,24
+28523,0671042262,0,The Blue Nowhere : A Novel,Jeffery Deaver,2002,Pocket,24
+28523,0060987529,0,Confessions of an Ugly Stepsister : A Novel,Gregory Maguire,2000,Regan Books,24
