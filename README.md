@@ -1,11 +1,11 @@
 # Book Recommendation System
 
-## 📖 Overview
+## Overview
 This project is a **Book Recommendation System** built using **Python**. It recommends books based on user preferences using collaborative filtering and other recommendation algorithms. The system leverages a dataset of books and user interactions to suggest similar books based on the user’s reading history.
 
 ---
 
-## 📊 Dataset
+## Dataset
 The project uses a dataset named **BOOK DATASET.csv** which contains the following fields:
 - **User-ID**: Unique identifier for the user.
 - **Book-Title**: Title of the book.
@@ -18,7 +18,7 @@ The dataset was cleaned and preprocessed before being used in the recommendation
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 - **Python 3.11+**
 - **Jupyter Notebook**
 - **Pandas, NumPy, Matplotlib, Seaborn** for data manipulation and visualization.
@@ -27,7 +27,7 @@ The dataset was cleaned and preprocessed before being used in the recommendation
 
 ---
 
-## 📜 Project Structure
+## Project Structure
 ```
 Book-Recommendation-System
 │
@@ -38,7 +38,7 @@ Book-Recommendation-System
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 ### Clone the Repository
 ```bash
 git clone https://github.com/YOUR-USERNAME/Book-Recommendation-System.git
@@ -63,17 +63,17 @@ Open the file **Book_Recommendation_system_24MBD009.ipynb** and run all cells.
 
 ---
 
-## 🎉 Results
+## Results
 The system will recommend books based on user interests using collaborative filtering. The notebook contains visualizations and model accuracy metrics to evaluate performance.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! If you find any bugs or want to add new features, feel free to fork the repository and submit a pull request.
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **MIT License**.
 
 ---
